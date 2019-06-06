@@ -1,2 +1,3 @@
 # startfrom0
-Computer Science code camp
+
+A bootcamp inspired by the [from0toC](https://github.com/ubidefeo/from0toC) workshop.
