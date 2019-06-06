@@ -1,4 +1,4 @@
-# Reading Materials
+# Study Materials
 
 ## Books
 
