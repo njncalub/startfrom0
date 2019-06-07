@@ -1,5 +1,11 @@
 title : "startfrom0"
 
-theme : simple
+theme : moon
 
-footnote : "startfrom0"
+layout : center-left
+
+code-line-numbers : true
+
+charts : true
+
+footnote : "startfrom0 - <a href='https://github.com/njncalub'>njncalub</a>"
