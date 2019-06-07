@@ -22,6 +22,11 @@
 - Chunk your problems.
 - Space your repetition.
 - Alternate different problem-solving techniques during your practice.
+
+@ulend
+
+@ul
+
 - Take breaks.
 - Use explanatory questioning and simple analogies.
 - Focus.
