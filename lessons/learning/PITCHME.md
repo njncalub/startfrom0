@@ -25,6 +25,10 @@
 
 @ulend
 
+---
+
+### Rules of Studying
+
 @ul
 
 - Take breaks.
@@ -46,6 +50,15 @@
 - Merely glancing at a problem’s solution and thinking you know how to do it.
 - Waiting until the last minute to study.
 - Repeatedly solving problems of the same type that you already know how to solve.
+
+@ulend
+
+---
+
+### Rules of Bad Studying
+
+@ul
+
 - Letting study sessions with friends turn into chat sessions.
 - Neglecting to read the textbook before you start working problems.
 - Not checking with your instructors or classmates to clear up points of confusion.
