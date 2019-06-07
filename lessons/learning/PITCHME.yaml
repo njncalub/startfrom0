@@ -2,8 +2,6 @@ title : "startfrom0"
 
 theme : moon
 
-layout : center-left
-
 code-line-numbers : true
 
 charts : true
