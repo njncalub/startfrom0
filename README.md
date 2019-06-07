@@ -6,7 +6,7 @@ A bootcamp inspired by the [from0toC](https://github.com/ubidefeo/from0toC) work
 
 | #   | Topic |
 | :-: | ----- |
-| 0   | [Learning](https://github.com/njncalub/startfrom0/blob/master/lessons/learning/PITCHME.md) |
+| 0   | [Learning](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/learning/#/) |
 
 ## Study Materials
 
