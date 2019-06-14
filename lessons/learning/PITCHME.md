@@ -2,7 +2,7 @@
 
 ---
 
-### Different Modes of Thinking
+## Different Modes of Thinking
 
 +++
 
@@ -10,7 +10,7 @@ TODO(njncalub): Add section.
 
 ---
 
-### Chunking
+## Chunking
 
 +++
 
@@ -18,7 +18,7 @@ TODO(njncalub): Add section.
 
 ---
 
-### Procrastination and Memory
+## Procrastination and Memory
 
 +++
 
@@ -26,7 +26,7 @@ TODO(njncalub): Add section.
 
 ---
 
-### Renaissance Learning and Unlocking Your Potential
+## Renaissance Learning and Unlocking Your Potential
 
 +++
 
@@ -34,7 +34,7 @@ TODO(njncalub): Add section.
 
 ---
 
-### Rules of Studying
+## Rules of Studying
 
 +++
 
@@ -58,7 +58,7 @@ TODO(njncalub): Add section.
 
 ---
 
-### Rules of Bad Studying
+## Rules of Bad Studying
 
 +++
 
@@ -82,5 +82,11 @@ TODO(njncalub): Add section.
 
 ---
 
-EOF
+## Resources
 
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by *Dr. Barbara Oakley* and *Dr. Terrence Sejnowski*
+* [How to Develop a Super Power Memory](https://www.amazon.com/How-Develop-Super-Power-Memory/dp/0811901815) by *Harry Lorayne*
+
+---
+
+EOF
