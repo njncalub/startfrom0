@@ -73,6 +73,8 @@ TODO(njncalub): Add section.
 
 +++
 
+### Rules of Studying
+
 @ul
 - Use recall.
 - Test yourself.
@@ -82,6 +84,8 @@ TODO(njncalub): Add section.
 @ulend
 
 +++
+
+### Rules of Studying
 
 @ul
 - Take breaks.
@@ -97,6 +101,8 @@ TODO(njncalub): Add section.
 
 +++
 
+### Rules of Bad Studying
+
 @ul
 - Passive rereading.
 - Letting highlights overwhelm you.
@@ -106,6 +112,8 @@ TODO(njncalub): Add section.
 @ulend
 
 +++
+
+### Rules of Bad Studying
 
 @ul
 - Letting study sessions with friends turn into chat sessions.
