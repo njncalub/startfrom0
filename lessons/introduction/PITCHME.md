@@ -26,7 +26,7 @@ for every victory gained you will also suffer a defeat.
 If you know neither the enemy nor yourself,
 you will succumb in every battle.
 
-- Sun Tzu, The Art of War
+*Sun Tzu, The Art of War*
 
 ---
 
