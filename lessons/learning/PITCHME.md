@@ -7,7 +7,7 @@
 ---
 
 @snap[west]
-@ol[split-screen-list](false)
+@ul[split-screen-list](false)
 
 * book
 * ash tray
@@ -19,11 +19,11 @@
 * purse
 * venetian blinds
 
-@olend
+@ulend
 @snapend
 
 @snap[east]
-@ol[split-screen-list](false)
+@ul[split-screen-list](false)
 
 * frying pan
 * clock
@@ -32,7 +32,7 @@
 * bottle
 * worm
 
-@olend
+@ulend
 @snapend
 
 ---
