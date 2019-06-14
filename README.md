@@ -6,7 +6,7 @@ A bootcamp inspired by the [from0toC](https://github.com/ubidefeo/from0toC) work
 
 | #   | Topic |
 | :-: | ----- |
-| 0   | [Introduction to the Workshop](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/introduction/#/) |
+| 0   | [Introduction](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/introduction/#/) |
 | 1   | [Learning How To Learn](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/learning/#/) |
 
 ## Study Materials
