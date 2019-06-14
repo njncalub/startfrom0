@@ -17,7 +17,6 @@
 
 ---
 
-```text
 If you know the enemy and know yourself,
 you need not fear the result of a hundred battles.
 
@@ -28,14 +27,13 @@ If you know neither the enemy nor yourself,
 you will succumb in every battle.
 
 - Sun Tzu, The Art of War
-```
 
 ---
 
 ## Know Your Enemy
 
 * Know what to expect (in the IT industry)
-* And know to tackle it (using the right tools for the job)
+* And how to tackle it (using the right tools for the job)
 
 ---
 
