@@ -8,7 +8,7 @@
 
 ## Benchmark
 
-@snap[west]
+@snap[west span-40 text-white]
 ```
 1. book
 2. ash tray
@@ -21,7 +21,7 @@
 ```
 @snapend
 
-@snap[east]
+@snap[east span-30 text-08 text-black]
 ```
 9.  venetian blinds
 10. frying pan
