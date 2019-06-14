@@ -60,6 +60,8 @@ TODO(njncalub): Add section.
 
 ### Rules of Bad Studying
 
++++
+
 @ul
 - Passive rereading.
 - Letting highlights overwhelm you.
