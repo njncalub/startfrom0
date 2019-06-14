@@ -2,6 +2,32 @@
 
 ---
 
+## Before we start...
+
+---
+
+## Benchmark
+
+@ol
+- book
+- ash tray
+- cow
+- coat
+- match
+- razor
+- apple
+- purse
+- venetian blinds
+- frying pan
+- clock
+- glasses
+- door knob
+- bottle
+- worm
+@olend
+
+---
+
 ## Different Modes of Thinking
 
 +++
