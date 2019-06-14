@@ -9,14 +9,15 @@
 @snap[west]
 @ol[split-screen-list](false)
 
-1. book
-2. ash tray
-3. cow
-4. coat
-5. match
-6. razor
-7. apple
-8. purse
+* book
+* ash tray
+* cow
+* coat
+* match
+* razor
+* apple
+* purse
+* venetian blinds
 
 @olend
 @snapend
@@ -24,13 +25,12 @@
 @snap[east]
 @ol[split-screen-list](false)
 
-9.  venetian blinds
-10. frying pan
-11. clock
-12. glasses
-13. door knob
-14. bottle
-15. worm
+* frying pan
+* clock
+* glasses
+* door knob
+* bottle
+* worm
 
 @olend
 @snapend
