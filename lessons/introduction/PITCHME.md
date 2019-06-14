@@ -5,15 +5,15 @@
 ## About @njncalub
 
 * Likes to learn about random stuff
-* Likes to share what I've learned to others
+* Likes to share what he learned to others
 
 ---
 
 ## Why?
 
-* Learn from your (and other's) mistakes.
+* Learn from your (and other's) mistakes
 * Don't give a man a fish...
-* Don't pay it back, pay it forward.
+* Don't pay it back, pay it forward
 
 ---
 
