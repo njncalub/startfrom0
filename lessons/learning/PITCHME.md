@@ -9,6 +9,7 @@
 ## Benchmark
 
 @snap[west]
+
 * book
 * ash tray
 * cow
@@ -17,9 +18,11 @@
 * razor
 * apple
 * purse
+
 @snapend
 
 @snap[east]
+
 * venetian blinds
 * frying pan
 * clock
@@ -27,6 +30,7 @@
 * door knob
 * bottle
 * worm
+
 @snapend
 
 ---
