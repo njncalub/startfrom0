@@ -17,7 +17,6 @@
 * razor
 * apple
 * purse
-* venetian blinds
 
 @ulend
 @snapend
@@ -25,6 +24,7 @@
 @snap[east]
 @ul[split-screen-list](false)
 
+* venetian blinds
 * frying pan
 * clock
 * glasses
