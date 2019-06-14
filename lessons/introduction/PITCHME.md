@@ -41,7 +41,7 @@ you will succumb in every battle.
 
 * [MBTI Personality Type](https://www.16personalities.com/)
 * [Memletic Learning Style](http://www.learning-styles-online.com/inventory/questions.php?cookieset=y)
-* [Speed Reading](http://www.readingsoft.com/index.html) and [Comprehension](http://www.readingsoft.com/quiz.html)
+* Reading [Speed](http://www.readingsoft.com/index.html) and [Comprehension](http://www.readingsoft.com/quiz.html)
 * [Typing Speed](https://www.typingtest.com/test.html)
 * List your subjects at school and order them from your most favorite to least favorite.
 
