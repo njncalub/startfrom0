@@ -9,7 +9,7 @@
 ## Benchmark
 
 @snap[west]
-
+@ul[split-screen-list](false)
 * book
 * ash tray
 * cow
@@ -18,11 +18,11 @@
 * razor
 * apple
 * purse
-
+@ulend
 @snapend
 
 @snap[east]
-
+@ul[split-screen-list](false)
 * venetian blinds
 * frying pan
 * clock
@@ -30,7 +30,7 @@
 * door knob
 * bottle
 * worm
-
+@ulend
 @snapend
 
 ---
