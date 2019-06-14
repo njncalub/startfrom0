@@ -1,75 +1,6 @@
-# Learning
+# Learning How To Learn
 
----
-
-## First Things First
-
-* Know your [personality type](https://www.16personalities.com).
-* Know your [learning style](https://www.learning-styles-online.com/inventory/questions.php).
-
----
-
-## Learning How to Learn
-
----
-
-### Rules of Studying
-
-@ul
-
-- Use recall.
-- Test yourself.
-- Chunk your problems.
-- Space your repetition.
-- Alternate different problem-solving techniques during your practice.
-
-@ulend
-
----
-
-### Rules of Studying
-
-@ul
-
-- Take breaks.
-- Use explanatory questioning and simple analogies.
-- Focus.
-- Eat your frogs first.
-- Make a mental contrast.
-
-@ulend
-
----
-
-### Rules of Bad Studying
-
-@ul
-
-- Passive rereading.
-- Letting highlights overwhelm you.
-- Merely glancing at a problem’s solution and thinking you know how to do it.
-- Waiting until the last minute to study.
-- Repeatedly solving problems of the same type that you already know how to solve.
-
-@ulend
-
----
-
-### Rules of Bad Studying
-
-@ul
-
-- Letting study sessions with friends turn into chat sessions.
-- Neglecting to read the textbook before you start working problems.
-- Not checking with your instructors or classmates to clear up points of confusion.
-- Thinking you can learn deeply when you are being constantly distracted.
-- Not getting enough sleep.
-
-@ulend
-
----
-
-### Focused versus Diffuse Thinking
+### Different Modes of Thinking
 
 +++
 
@@ -101,4 +32,43 @@ TODO(njncalub): Add section.
 
 ---
 
+### Rules of Studying
+
++++
+
+Use recall.
+Test yourself.
+Chunk your problems.
+Space your repetition.
+Alternate different problem-solving techniques during your practice.
+
++++
+
+Take breaks.
+Use explanatory questioning and simple analogies.
+Focus.
+Eat your frogs first.
+Make a mental contrast.
+
+---
+
+### Rules of Bad Studying
+
+Passive rereading.
+Letting highlights overwhelm you.
+Merely glancing at a problem’s solution and thinking you know how to do it.
+Waiting until the last minute to study.
+Repeatedly solving problems of the same type that you already know how to solve.
+
++++
+
+Letting study sessions with friends turn into chat sessions.
+Neglecting to read the textbook before you start working problems.
+Not checking with your instructors or classmates to clear up points of confusion.
+Thinking you can learn deeply when you are being constantly distracted.
+Not getting enough sleep.
+
+---
+
 EOF
+
