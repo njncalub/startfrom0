@@ -1,4 +1,4 @@
-# Learning How To Learn
+# LEARNING HOW TO LEARN
 
 +++
 
@@ -108,7 +108,7 @@ TIP: When taking exams, eat your frogs first.
 
 * large storage warehouse
 * distributed over different regions
-* need to revisit a few times
+* working memory need to be consolidated to be stored to the LTM
 
 @ulend
 
@@ -119,32 +119,6 @@ TIP: Use Spaced Repetition
 +++
 
 TIP: Consistency is _key_
-
-+++
-
-+++
-
-## *gasps* Sleep is important, too?
-
-@ul
-
-* clears toxins
-* tidies up ideas
-* rehearsing what you learned
-
-@ulend
-
-+++
-
-SIDENOTE: I don't really like sleeping
-
-+++
-
-TIP: Lucid Dreams
-
-+++
-
-TIP: Polyphasic Sleep
 
 +++
 
@@ -187,6 +161,20 @@ TIP: Polyphasic Sleep
 
 @ulend
 
++++
+
+## Building a library of Chunks
+
+@ul
+
+* transfer
+* sequential and innovative thinking
+* overlearning
+* einstellung
+* interleaving
+
+@ulend
+
 ---
 
 ## MOTIVATION & PROCRASTINATION
@@ -202,6 +190,10 @@ TIP: Polyphasic Sleep
 * Serotonin - affects social life, risk taking
 
 @ulend
+
++++
+
+## Story about arsenic
 
 +++
 
@@ -221,13 +213,115 @@ TIP: Using the Pomodoro Technique
 
 +++
 
+## Habits can make you a zombie
+
+@ol
+
+* Cue
+* Routine
+* Reward
+* Belief
+
+@olend
+
++++
+
+## Focus on the Process, not the Product
+
+Zombies like processes
+
++++
+
 ---
 
-TODO(njncalub): Add sections here.
+# CHEAT-LIKE ABILITIES
 
++++
 
+## Physical Exercise
 
++++
 
+## Sleep
+
+@ul
+
+* clears toxins
+* tidies up ideas
+* rehearsing what you learned
+
+@ulend
+
++++
+
+SIDENOTE: I don't really like sleeping
+
++++
+
+TIP: Lucid Dreams
+
++++
+
+TIP: Polyphasic Sleep
+
++++
+
+## Visual Memory
+
++++
+
+```text
+1. book
+2. ash tray
+3. cow
+4. coat
+5. match
+6. razor
+7. apple
+8. purse
+9. venetian blinds
+10. frying pan
+11. clock
+12. glasses
+13. door knob
+14. bottle
+15. worm
+```
+
+@[1-2]
+@[2-3]
+@[3-4]
+@[4-5]
+@[5-6]
+@[6-7]
+@[7-8]
+@[8-9]
+@[9-10]
+@[10-11]
+@[11-12]
+@[12-13]
+@[13-14]
+@[14-15]
+
++++
+
+## Spatial Memory
+
++++
+
+### Creating your own Memory Palace
+
++++
+
+## Increasing reading speed
+
++++
+
+## In Learning Japanese
+
++++
+
+## Having friends
 
 ---
 
