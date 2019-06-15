@@ -4,15 +4,15 @@
 
 "I want to know how to learn"
 
----
++++
 
-## What will we learn here?
+## OVERVIEW
 
 @ol
 
 * Thinking and Learning
-* Chunking
 * Memory
+* Chunking
 * Motivation and Procrastination
 * Cheat-like Abilities?!
 
@@ -22,7 +22,7 @@
 
 # THINKING AND LEARNING
 
----
++++
 
 ## Different Modes of Thinking
 
@@ -40,13 +40,19 @@ Finding new paths
 
 +++
 
+@snap
 TIP: What would Salvador Dali and Thomas Edison do?
+@snapend
 
+@snap
 TIP: Eureka moments while on the bath or walking to school.
+@snapend
 
+@snap
 TIP: When taking exams, eat your frogs first.
+@snapend
 
----
++++
 
 ## What is Learning?
 
@@ -55,6 +61,10 @@ TIP: When taking exams, eat your frogs first.
 ## Practice Makes Permanent
 
 ---
+
+# MEMORY
+
++++
 
 ## Introduction to Memory
 
@@ -106,17 +116,21 @@ TIP: When taking exams, eat your frogs first.
 
 +++
 
+@snap
 TIP: Use Spaced Repetition 
+@snapend
 
+@snap
 TIP: Consistency is _key_
+@snapend
 
----
++++
 
 ## *gasps* Sleep is important, too?
 
 @ul
 
-* clear toxins
+* clears toxins
 * tidies up ideas
 * rehearsing what you learned
 
@@ -124,19 +138,25 @@ TIP: Consistency is _key_
 
 +++
 
+@snap
 SIDENOTE: I don't really like sleeping
+@snapend
 
+@snap
 TIP: Lucid Dreams
+@snapend
 
+@snap
 TIP: Polyphasic Sleep
+@snapend
 
 ---
 
-# CHUNKS
+# CHUNKING
 
----
++++
 
-## Chunking
+## What is Chunking?
 
 @ul
 
@@ -146,7 +166,7 @@ TIP: Polyphasic Sleep
 
 @ulend
 
----
++++
 
 ## Creating chunks
 
@@ -158,7 +178,7 @@ TIP: Polyphasic Sleep
 
 @olend
 
----
++++
 
 ## Illusion of Competence
 
@@ -173,7 +193,7 @@ TIP: Polyphasic Sleep
 
 # MOTIVATION AND PROCRASTINATION
 
----
++++
 
 ## What motivates you?
 
@@ -185,7 +205,7 @@ TIP: Polyphasic Sleep
 
 @ulend
 
----
++++
 
 ## What happens during procrastination?
 
@@ -199,14 +219,25 @@ TIP: Polyphasic Sleep
 
 +++
 
+@snap
 TIP: Using the Pomodoro Technique
+@snapend
 
 ---
 
 TODO(njncalub): Add sections here.
 
 
-### Rules of Studying
+
+
+
+---
+
+# SUMMARY
+
++++
+
+## Rules of Studying
 
 ```text
 * Use recall.
@@ -221,9 +252,9 @@ TODO(njncalub): Add sections here.
 * Make a mental contrast.
 ```
 
----
++++
 
-### Rules of Bad Studying
+## Rules of Bad Studying
 
 ```text
 * Passive rereading.
