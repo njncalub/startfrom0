@@ -16,7 +16,7 @@
 
 @ul
 
-* Learn from my mistakes
+* Standing the shoulder of giants
 * Something about fishes
 * Don't pay it back, pay it forward
 
