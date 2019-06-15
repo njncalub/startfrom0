@@ -40,15 +40,15 @@ Finding new paths
 
 +++
 
-TIP: What would Salvador Dali and Thomas Edison do?
+What would Salvador Dali and Thomas Edison do?
 
 +++
 
-TIP: Eureka moments while on the bath or walking to school.
+Eureka moments while on the bath or walking to school.
 
 +++
 
-TIP: When taking exams, eat your frogs first.
+When taking exams, eat your frogs first.
 
 +++
 
@@ -114,13 +114,11 @@ TIP: When taking exams, eat your frogs first.
 
 +++
 
-TIP: Use Spaced Repetition 
+Use Spaced Repetition 
 
 +++
 
-TIP: Consistency is _key_
-
-+++
+Consistency is _key_
 
 ---
 
@@ -209,7 +207,7 @@ TIP: Consistency is _key_
 
 +++
 
-TIP: Using the Pomodoro Technique
+Using the Pomodoro Technique
 
 +++
 
@@ -258,11 +256,11 @@ SIDENOTE: I don't really like sleeping
 
 +++
 
-TIP: Lucid Dreams
+Lucid Dreams
 
 +++
 
-TIP: Polyphasic Sleep
+Polyphasic Sleep
 
 +++
 
@@ -321,7 +319,7 @@ TIP: Polyphasic Sleep
 
 +++
 
-## Having friends
+## Power of Friendship
 
 ---
 
