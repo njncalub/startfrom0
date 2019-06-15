@@ -77,4 +77,18 @@ you will succumb in every battle.
 
 ---
 
+### Daily life of a software developer
+
+@ul
+
+* Encounter a problem
+* Research for the solution
+* Study and learn
+* Solve problem
+* Repeat
+
+@ulend
+
+---
+
 EOF
