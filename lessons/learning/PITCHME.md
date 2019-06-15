@@ -40,17 +40,15 @@ Finding new paths
 
 +++
 
-@snap[east]
 TIP: What would Salvador Dali and Thomas Edison do?
-@snapend
 
-@snap[east]
++++
+
 TIP: Eureka moments while on the bath or walking to school.
-@snapend
 
-@snap[east]
++++
+
 TIP: When taking exams, eat your frogs first.
-@snapend
 
 +++
 
@@ -116,13 +114,13 @@ TIP: When taking exams, eat your frogs first.
 
 +++
 
-@snap[east]
 TIP: Use Spaced Repetition 
-@snapend
 
-@snap[east]
++++
+
 TIP: Consistency is _key_
-@snapend
+
++++
 
 +++
 
@@ -138,17 +136,17 @@ TIP: Consistency is _key_
 
 +++
 
-@snap[east]
 SIDENOTE: I don't really like sleeping
-@snapend
 
-@snap[east]
++++
+
 TIP: Lucid Dreams
-@snapend
 
-@snap[east]
++++
+
 TIP: Polyphasic Sleep
-@snapend
+
++++
 
 ---
 
@@ -219,9 +217,9 @@ TIP: Polyphasic Sleep
 
 +++
 
-@snap[east]
 TIP: Using the Pomodoro Technique
-@snapend
+
++++
 
 ---
 
