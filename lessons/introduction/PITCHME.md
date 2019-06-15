@@ -1,4 +1,31 @@
-# startfrom0
+# `startfrom0`
+
+---
+
+## Wait, what's this?
+
+---
+
+## Why?
+
+@ul
+
+* Learn from your (and other's) mistakes
+* Don't give a man a fish...
+* Don't pay it back, pay it forward
+
+@ulend
+
+---
+
+## How will this work?
+
+@ul
+
+* 2 way process
+* Take responsibility for your own learning
+
+@ulend
 
 ---
 
@@ -6,14 +33,6 @@
 
 * Likes to learn about random stuff
 * Likes to share what he learned to others
-
----
-
-## Why?
-
-* Learn from your (and other's) mistakes
-* Don't give a man a fish...
-* Don't pay it back, pay it forward
 
 ---
 
