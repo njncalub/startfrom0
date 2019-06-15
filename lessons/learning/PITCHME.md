@@ -1,8 +1,66 @@
 # Learning How To Learn
 
++++
+
+"I want to know how to learn"
+
 ---
 
-## Quick Test
+## What will we learn here?
+
+@ol
+
+* Thinking and Learning
+* Chunking
+* Memory
+* Motivation and Procrastination
+* Cheat-like Abilities?!
+
+@olend
+
+---
+
+# THINKING AND LEARNING
+
+---
+
+## Different Modes of Thinking
+
++++
+
+### Focused Mode
+
+Finding the familiar path
+
++++
+
+### Diffuse Mode
+
+Finding new paths
+
++++
+
+TIP: What would Salvador Dali and Thomas Edison do?
+
+TIP: Eureka moments while on the bath or walking to school.
+
+TIP: When taking exams, eat your frogs first.
+
+---
+
+## What is Learning?
+
++++
+
+## Practice Makes Permanent
+
+---
+
+## Introduction to Memory
+
++++
+
+### A quick memorization test
 
 ```text
 1. book
@@ -22,109 +80,163 @@
 15. worm
 ```
 
-@[1]
-@[2]
-@[3]
-@[4]
-@[5]
-@[6]
-@[7]
-@[8]
-@[9]
-@[10]
-@[11]
-@[12]
-@[13]
-@[14]
-@[15]
++++
 
----
+## Working Memory
 
-## Different Modes of Thinking
+@ul
+
+* in pre frontal cortex
+* inefficient mental blackboard
+* just up to 4 slots of information
+
+@ulend
 
 +++
 
-TODO(njncalub): Add section.
+## Long-term Memory
+
+@ul
+
+* large storage warehouse
+* distributed over different regions
+* need to revisit a few times
+
+@ulend
+
++++
+
+TIP: Use Spaced Repetition 
+
+TIP: Consistency is _key_
+
+---
+
+## *gasps* Sleep is important, too?
+
+@ul
+
+* clear toxins
+* tidies up ideas
+* rehearsing what you learned
+
+@ulend
+
++++
+
+SIDENOTE: I don't really like sleeping
+
+TIP: Lucid Dreams
+
+TIP: Polyphasic Sleep
+
+---
+
+# CHUNKS
 
 ---
 
 ## Chunking
 
-+++
+@ul
 
-TODO(njncalub): Add section.
+* imagine: jumbled puzzle pieces
+* a mental leap to unite different pieces of information
+* sound -> letters -> words -> concepts -> ideas
 
----
-
-## Procrastination and Memory
-
-+++
-
-TODO(njncalub): Add section.
+@ulend
 
 ---
 
-## Renaissance Learning and Unlocking Your Potential
+## Creating chunks
 
-+++
+@ol
 
-TODO(njncalub): Add section.
+* focus your undivided attention
+* understand the basic idea
+* gaining context
+
+@olend
 
 ---
 
-## Rules of Studying
+## Illusion of Competence
+
+@ul
+
+* recall > reread
+* build chunks, then connect chunks
+
+@ulend
+
+---
+
+# MOTIVATION AND PROCRASTINATION
+
+---
+
+## What motivates you?
+
+@ul
+
+* Acetylcholine - important for memory and retention
+* Dopamine - released on unexpected reward
+* Serotonin - affects social life, risk taking
+
+@ulend
+
+---
+
+## What happens during procrastination?
+
+@ol
+
+* do something you don't like
+* pain receptors act up
+* we do something else
+
+@olend
 
 +++
+
+TIP: Using the Pomodoro Technique
+
+---
+
+TODO(njncalub): Add sections here.
+
 
 ### Rules of Studying
 
-@ul
-- Use recall.
-- Test yourself.
-- Chunk your problems.
-- Space your repetition.
-- Alternate different problem-solving techniques during your practice.
-@ulend
-
-+++
-
-### Rules of Studying
-
-@ul
-- Take breaks.
-- Use explanatory questioning and simple analogies.
-- Focus.
-- Eat your frogs first.
-- Make a mental contrast.
-@ulend
+```text
+* Use recall.
+* Test yourself.
+* Chunk your problems.
+* Space your repetition.
+* Alternate different problem-solving techniques during your practice.
+* Take breaks.
+* Use explanatory questioning and simple analogies.
+* Focus.
+* Eat your frogs first.
+* Make a mental contrast.
+```
 
 ---
 
-## Rules of Bad Studying
-
-+++
-
 ### Rules of Bad Studying
 
-@ul
-- Passive rereading.
-- Letting highlights overwhelm you.
-- Merely glancing at a problem’s solution and thinking you know how to do it.
-- Waiting until the last minute to study.
-- Repeatedly solving problems of the same type that you already know how to solve.
-@ulend
-
-+++
-
-### Rules of Bad Studying
-
-@ul
-- Letting study sessions with friends turn into chat sessions.
-- Neglecting to read the textbook before you start working problems.
-- Not checking with your instructors or classmates to clear up points of confusion.
-- Thinking you can learn deeply when you are being constantly distracted.
-- Not getting enough sleep.
-@ulend
+```text
+* Passive rereading.
+* Letting highlights overwhelm you.
+* Merely glancing at a problem’s solution and thinking you know how to do it.
+* Waiting until the last minute to study.
+* Repeatedly solving problems of the same type that you already know how to solve.
+* Letting study sessions with friends turn into chat sessions.
+* Neglecting to read the textbook before you start working problems.
+* Not checking with your instructors or classmates to clear up points of confusion.
+* Thinking you can learn deeply when you are being constantly distracted.
+* Not getting enough sleep.
+```
 
 ---
 
