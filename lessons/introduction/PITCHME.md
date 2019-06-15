@@ -10,8 +10,8 @@
 
 @ul
 
-* Learn from your (and other's) mistakes
-* Don't give a man a fish...
+* Learn from my mistakes
+* Something about fishes
 * Don't pay it back, pay it forward
 
 @ulend
