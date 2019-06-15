@@ -4,36 +4,39 @@
 
 ## Quick Test
 
----
+```text
+1. book
+2. ash tray
+3. cow
+4. coat
+5. match
+6. razor
+7. apple
+8. purse
+9. venetian blinds
+10. frying pan
+11. clock
+12. glasses
+13. door knob
+14. bottle
+15. worm
+```
 
-@snap[west]
-@ul[split-screen-list](false)
-
-* book
-* ash tray
-* cow
-* coat
-* match
-* razor
-* apple
-* purse
-
-@ulend
-@snapend
-
-@snap[east]
-@ul[split-screen-list](false)
-
-* venetian blinds
-* frying pan
-* clock
-* glasses
-* door knob
-* bottle
-* worm
-
-@ulend
-@snapend
+@[1]
+@[2]
+@[3]
+@[4]
+@[5]
+@[6]
+@[7]
+@[8]
+@[9]
+@[10]
+@[11]
+@[12]
+@[13]
+@[14]
+@[15]
 
 ---
 
