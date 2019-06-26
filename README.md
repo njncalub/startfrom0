@@ -8,6 +8,7 @@ A bootcamp inspired by the [from0toC](https://github.com/ubidefeo/from0toC) work
 | :-: | ----- |
 | 0   | [Introduction](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/introduction/#/) |
 | 1   | [Learning How To Learn](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/learning/#/) |
+| 2   | [Philosophy](https://gitpitch.com/njncalub/startfrom0/master?p=lessons/philosophy/#/) |
 
 ## Study Materials
 
