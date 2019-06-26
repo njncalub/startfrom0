@@ -58,8 +58,6 @@
 
 ---
 
-## Philosophy Explained With Donuts
-
 ![](http://cdn8.openculture.com/wp-content/uploads/2015/08/23221329/philosophy-donuts.jpg)
 
 ---
