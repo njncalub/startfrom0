@@ -52,6 +52,10 @@
 
 "one who seeks the strongest idea (Meme) in the contemporary battlefield of ideas(memosphere), and pursues their propagation"
 
++++
+
+### [Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic)
+
 ---
 
 ![](http://cdn8.openculture.com/wp-content/uploads/2015/08/23221329/philosophy-donuts.jpg)
