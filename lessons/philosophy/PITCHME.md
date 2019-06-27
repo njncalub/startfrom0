@@ -24,10 +24,6 @@
 
 ---
 
-# Philosophy and Religion
-
----
-
 ## Philosophy in Religion
 
 ---
@@ -62,9 +58,39 @@
 
 ---
 
+### Stoicism
+
++++
+
+### [Stoic Exercises](https://dailystoic.com/10-insanely-useful-stoic-exercises/)
+
+```text
+* Early Morning Reflection
+* A View From Above
+* Contemplation of the Ideal Man/Woman
+* Cultivating Philantrophy
+* Self Retreat
+* Philosophical Journal
+* The Stripping Method
+* Bedtime Reflection
+* Negative Visualization
+* Physical Self-Control Training
+```
+
+---
+
+### Assignments
+
+* Watch the [WESTERN PHILOSOPHY](https://www.youtube.com/playlist?list=PLwxNMb28XmpeypJMHfNbJ4RAFkRtmAN3P) series.
+* Watch the [EASTERN PHILOSOPHY](https://www.youtube.com/playlist?list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X) series.
+* Read [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html).
+
+---
+
 ## Resources
 
 * [PHILOSOPHY - Religion: Reason And Faith](https://www.youtube.com/watch?v=MTPHXNMi9tA)
+* [10 Insanely Useful Stoic Exercises](https://dailystoic.com/10-insanely-useful-stoic-exercises/)
 
 ---
 
